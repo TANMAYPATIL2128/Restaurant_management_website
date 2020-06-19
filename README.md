@@ -1,5 +1,5 @@
 ## Restaurant Management System
-A multible paged professional dentist website developed with Bootstrap 4.5.0, CSS3, HTML5, Google Fonts
+A multible paged professional Restaurant management website developed with Bootstrap 4.5.0, CSS3, HTML5, Google Fonts
 
 # Hosting- on your PC when you download this zip file open the index.html file.
 
